@@ -7,6 +7,7 @@ on:
       - main
       - l10n_dev_crowdin
       - custom-download-location
+      - dev
     paths-ignore:
       - '**/README.md'
     tags:
